@@ -1,5 +1,6 @@
 {
-  "notes": "Automatic GitHub update",
-  "version": "1.0.4.0",
-  "url": "https://github.com/kacakm1to/sistem-updates/releases/download/latest/Sistem-win-x64.zip"
+  "url": "https://github.com/kacakm1to/sistem-updates/releases/download/v1.0.5.0/Sistem-win-x64.zip",
+  "sha256": "07ca5eea83ce8ade3e9286a11d051413ebe3a3c30be388199bd0aa0045aefe5d",
+  "version": "1.0.5.0",
+  "notes": "GitHub Releases API updater; full package"
 }
