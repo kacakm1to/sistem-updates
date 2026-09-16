@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/kacakm1to/sistem-updates/releases/download/v1.0.5.0/Sistem-win-x64.zip",
-  "sha256": "07ca5eea83ce8ade3e9286a11d051413ebe3a3c30be388199bd0aa0045aefe5d",
-  "version": "1.0.5.0",
-  "notes": "GitHub Releases API updater; full package"
+  "notes": "GitHub Releases API updater; full package",
+  "url": "https://github.com/kacakm1to/sistem-updates/releases/download/v1.0.6.0/Sistem-win-x64.zip",
+  "sha256": "4568ae0a0b76648a0e3282444f4393f49dc508ed313734d50a8a1b675c49f99a",
+  "version": "1.0.6.0"
 }
